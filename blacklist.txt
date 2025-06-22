@@ -6,3 +6,5 @@
 ||bromovies.tv^
 ||steamunlocked.net^
 ||roblox.com^
+||chat.openai.com^
+||gemini.google.com^
