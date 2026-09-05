@@ -4,6 +4,7 @@
 ||skip.menu^
 ||modo.store^
 ||in.modo.store^
-|||fednet.federal.bank.in^   
+||fednet.federal.bank.in^
+||federal.bank.in^ 
 
 
